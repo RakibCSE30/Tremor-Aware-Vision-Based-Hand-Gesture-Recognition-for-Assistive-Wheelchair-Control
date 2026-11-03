@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this research repository, cite it as software and check for a future archival DOI."
+title: "Tremor-Aware Vision-Based Hand Gesture Recognition for Assistive Wheelchair Control"
+type: software
+authors:
+  - family-names: Islam
+    given-names: Rakibul
+repository-code: "https://github.com/RakibCSE30/Tremor-Aware-Vision-Based-Hand-Gesture-Recognition-for-Assistive-Wheelchair-Control"
+version: "0.1.0"
+date-released: "2026-11-03"
+abstract: "Research documentation for camera-only temporal hand gesture interpretation and assistive wheelchair command generation under tremor-related motion variability."
+keywords: [computer vision, hand gesture recognition, assistive wheelchair, tremor, temporal modelling]

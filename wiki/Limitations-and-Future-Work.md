@@ -1,0 +1,3 @@
+# Limitations and Future Work
+
+Potential limitations include insufficient synchronized video/command labels, limited participant diversity, camera viewpoint and lighting sensitivity, tracking failures, and dataset domain shift. Future work may include consent-based video collection, stronger temporal baselines, uncertainty calibration, cross-participant validation, and independent safety engineering. This prototype is not a medical device and must not control an occupied wheelchair.

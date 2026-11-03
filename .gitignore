@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.ipynb_checkpoints/
+.pytest_cache/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Keep sensitive/raw data outside Git
+data/raw/
+data/private/
+dataset/raw/
+dataset/private/
+*.mp4
+*.mov
+*.avi
+*.xlsx
+
+# Model artifacts
+*.pt
+*.pth
+*.h5
+*.keras
+*.onnx
+checkpoints/
+runs/
+wandb/
+mlruns/
